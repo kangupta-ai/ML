@@ -1,2 +1,1 @@
-**Machine Learning Concept Documentation
-**
+**Machine Learning Concept Documentation**
